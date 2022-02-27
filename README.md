@@ -1,2 +1,4 @@
 # Amazon-PS5-Scraper
-Simple python web scraper to check Amazon for PS5 disk edition stock 
+Simple python web scraper (for mac) to check Amazon for PS5 disk edition stock every minute.
+
+If found it sends a notification, otherwise it prints to terminal. 
